@@ -1,7 +1,6 @@
 # melty_streaming
 A dynamic border for Melty Blood Actress Again: Current Code!
-
-[Video Demonstration](https://www.youtube.com/watch?v=5g_8LMq0-JA)
+Forked from Kikasuru's version and modified to display steam version sidebars instead.
 
 ## Dependencies
  - [Python 3.6.x or higher](https://www.python.org/downloads/release/python-396/) (3.9.6 is highly recommended.)
